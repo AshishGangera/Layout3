@@ -1,0 +1,676 @@
+.image {
+    background-image: url('bg.jpg');
+    color: white;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+
+.col-8 {
+    height: 30%;
+}
+
+.line {
+    background-color: #38BADA;
+    height: 18px;
+    width: 60px;
+    margin-left: 15.8%;
+    margin-top: 30px;
+}
+
+.u {
+    font-size: 100px;
+    margin-left: 15%;
+    margin-top: -20px;
+}
+
+.tre {
+    margin-left: 15%;
+    margin-top: -20px;
+    margin-bottom: 50px;
+    font-size: 35px;
+}
+
+
+.name {
+    direction: rtl;
+    font-size: 40px;
+    padding-right: 70px;
+    padding-top: 85px;
+    padding-bottom: 110px;
+}
+
+.lea {
+    line-height: 50px;
+    text-align: left;
+    margin-left: 15%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    line-height: 90px;
+}
+
+.learn1 {
+    font-size: 105px;
+}
+
+.pro {
+    font-size: 90px;
+}
+
+.add {
+    line-height: 10px;
+    text-align: right;
+    padding-right: 70px;
+    padding-top: 60px;
+    font-size: 20px;
+}
+
+.first {
+    padding-left: 15%;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.fir {
+    color: red;
+    font-size: 95px;
+}
+
+.start {
+    font-size: 52px;
+    margin-top: -20px;
+}
+
+.month {
+    font-size: 35px;
+    margin-top: -15px;
+}
+
+.logo1 img {
+    width: 25%;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 130px;
+}
+
+.coded {
+    color: white;
+    padding-left: 250px;
+    margin-top: -60px;
+    font-size: 35px;
+    line-height: 30px;
+}
+
+.logo_of {
+    font-size: 15px;
+}
+
+.text {
+    padding-left: 15%;
+    padding-bottom: 65px;
+}
+
+.our {
+    color: red;
+    font-size: 29px;
+    padding-top: 45px;
+}
+
+.cod {
+    padding-top: 25px;
+    font-size: 73px;
+    line-height: 43px;
+}
+
+.lor1 {
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.lorem1 {
+    width: 75%;
+    text-align: justify;
+    word-spacing: 5px;
+    margin-top: 25px;
+}
+.lorem2 {
+    width: 75%;
+    text-align: justify;
+    word-spacing: 5px;
+    margin-top: 43px;
+}
+
+.text2 {
+    padding-top: 90px;
+    padding-right: 70px;
+    text-align: right;
+}
+
+.second {
+    color: #38BADA;
+    font-size: 60px;
+}
+
+.end {
+    font-size: 33px;
+    margin-top: -15px;
+}
+
+.logo2 {
+    padding-top: 10px;
+}
+
+.earn {
+    font-size: 27px;
+    padding-top: 10px;
+}
+
+.lor {
+
+    text-align: justify;
+    direction: rtl;
+    word-spacing: 5px;
+    margin-top: 15px;
+    margin-left: 130px;
+}
+
+@media (max-width: 1024px) {
+    .line {
+        height: 15px;
+        width: 55px;
+    }
+
+    .u {
+        font-size: 90px;
+    }
+
+    .tre {
+        font-size: 30px;
+    }
+
+    .name {
+        font-size: 30px;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .lea {
+        line-height: 70px;
+    }
+
+    .learn1 {
+        font-size: 70px;
+    }
+
+    .pro {
+        font-size: 60px;
+    }
+
+    .add {
+        font-size: 15px;
+    }
+
+    .fir {
+        font-size: 63px;
+    }
+
+    .start {
+        font-size: 33px;
+        margin-top: -10px;
+    }
+
+    .month {
+        font-size: 22px;
+        margin-top: -10px;
+    }
+
+    .logo1 img {
+        width: 25%;
+
+        margin-top: 70px;
+        margin-left: 45px;
+    }
+
+    .coded {
+        padding-left: 130px;
+        margin-top: -45px;
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .logo_of {
+        font-size: 11px;
+        margin-top: -10px;
+    }
+
+    .our {
+        font-size: 20px;
+    }
+
+    .cod {
+        font-size: 50px;
+        margin-top: -10px;
+    }
+
+    .lor1 {
+        font-size: 20px;
+        padding-top: 10px;
+    }
+
+    .lorem {
+        font-size: 15px;
+        width: 75%;
+        word-spacing: 2px;
+    }
+
+    .second {
+        font-size: 45px;
+    }
+
+    .end {
+        font-size: 24px;
+        margin-top: -15px;
+    }
+
+    .earn {
+        font-size: 20px;
+        padding-top: 10px;
+    }
+
+    .lor {
+        text-align: justify;
+        direction: rtl;
+        margin-top: 15px;
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 768px) {
+    .line {
+        height: 12px;
+        width: 45px;
+    }
+
+    .u {
+        font-size: 70px;
+    }
+
+    .tre {
+        font-size: 25px;
+    }
+
+    .name {
+        font-size: 25px;
+        padding-right: 15px;
+    }
+
+    .lea {
+        line-height: 45px;
+    }
+
+    .learn1 {
+        font-size: 50px;
+    }
+
+    .pro {
+        font-size: 45px;
+    }
+
+    .add {
+        line-height: 5px;
+        padding-right: 30px;
+        padding-top: 40px;
+        font-size: 12px;
+    }
+
+    .fir {
+        font-size: 50px;
+    }
+
+    .start {
+        font-size: 27px;
+        margin-top: -10px;
+    }
+
+    .month {
+        font-size: 18px;
+        margin-top: -10px;
+    }
+
+    .logo1 img {
+        width: 25%;
+        margin-top: 70px;
+        margin-left: 45px;
+    }
+
+    .coded {
+        padding-left: 105px;
+        margin-top: -35px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .logo_of {
+        font-size: 9px;
+        margin-top: -10px;
+    }
+
+    .our {
+        font-size: 18px;
+        margin-top: -10px;
+    }
+
+    .cod {
+        font-size: 45px;
+        margin-top: -15px;
+    }
+
+    .lor1 {
+        font-size: 17px;
+        padding-top: 10px;
+    }
+
+    .lorem {
+        font-size: 15px;
+        width: 85%;
+        word-spacing: 2px;
+    }
+
+    .text2 {
+        padding-top: 90px;
+        padding-right: 15px;
+        text-align: right;
+    }
+    
+    .second {
+        font-size: 38px;
+    }
+    
+    .end {
+        font-size: 21px;
+    }
+    
+    .earn {
+        font-size: 24px;
+    }
+    
+    .lor {
+        word-spacing: 1px;
+        margin-top: 15px;
+        margin-left: 55px;
+    }
+    .text {
+        padding-left: 15%;
+        padding-bottom: 55px;
+    }
+    
+}
+
+@media (max-width: 426px){
+    .line {
+        margin-top: 15px;
+        height: 9px;
+        width: 25px;
+    }
+
+    .u {
+        padding-top: 10px;
+        font-size: 40px;
+    }
+
+    .tre {
+        padding-top: 10px;
+        font-size: 15px;
+        margin-bottom: 23px;
+    }
+
+    .name {
+        font-size: 15px;
+        padding-right: 0px;
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    .lea {
+        padding-top: 20px;
+        padding-bottom: 20px;
+        line-height: 30px;
+    }
+
+    .learn1 {
+        font-size: 30px;
+    }
+
+    .pro {
+        font-size: 23px;
+    }
+
+    .add {
+        line-height: 0px;
+        padding-right: 30px;
+        padding-top: 18px;
+        font-size: 5px;
+    }
+
+    .first{
+        padding-top: 8px;
+        padding-bottom: 9px;
+        line-height: 40px;
+    }
+    .fir {
+        font-size: 25px;
+    }
+
+    .start {
+        font-size: 14px;
+    }
+
+    .month {
+        font-size: 10px;
+        margin-top: -25px;
+    }
+
+    .logo1 img {
+        width: 25%;
+        margin-top: 30px;
+        margin-left: 15px;
+    }
+
+    .coded {
+        padding-left: 45px;
+        margin-top: -19px;
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .logo_of {
+        font-size: 6px;
+    }
+
+    .our {
+        font-size: 10px;
+        margin-top: -25px;
+    }
+
+    .cod {
+        font-size: 25px;
+        margin-top: -28px;
+    }
+
+    .lor1 {
+        font-size: 9px;
+        margin-top: -20px;
+    }
+
+    .lorem {
+        padding-top: -10px;
+        font-size: 6px;
+        width: 85%;
+        word-spacing: 2px;
+    }
+
+    .text2 {
+        padding-top: 30px;
+        padding-right: 15px;
+        text-align: right;
+    }
+    
+    .second {
+        font-size: 19px;
+    }
+    
+    .end {
+        padding-top: 10px;
+        font-size: 11px;
+    }
+    .logo2 img{
+        width: 30%;
+    }
+    
+    .earn {
+        font-size: 9px;
+        margin-top: -10px;
+    }
+    
+    .lor {
+        word-spacing: 0px;
+        margin-top: -1px;
+        margin-left: 20px;
+        font-size: 4px;
+    }
+    .text {
+        padding-left: 15%;
+        padding-bottom: 5px;
+    }
+    .lorem1 {
+        width: 90%;
+        word-spacing: 0px;
+        margin-top: 10px;
+        font-size: 5px;
+    }
+    .lorem2 {
+        width: 90%;
+        word-spacing: 0px;
+        margin-top: 10px;
+        font-size: 5px;
+    }
+    
+}
+
+@media (max-width: 376px) {
+    .end {
+        padding-top: 10px;
+        font-size: 10px;
+    }
+    .logo1 img {
+        margin-left: 10px;
+    }
+    .coded {
+        padding-left: 38px;
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .logo_of {
+        font-size: 5px;
+    }
+    .text{
+        padding-bottom: 1px;
+    }
+    .name{
+        font-size: 13px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .line{
+        margin-top: 5px;
+        height: 5px;
+    }
+    .u{
+        padding-top: 8px;
+    }
+    .tre{
+        padding-top: 8px;
+        margin-bottom: 8px;
+    }
+    .lorem1 {
+        width: 90%;
+        word-spacing: 0px;
+        margin-top: 10px;
+        font-size: 5px;
+    }
+    .lorem2 {
+        width: 90%;
+        word-spacing: 0px;
+        margin-top: 10px;
+        font-size: 5px;
+    }
+    .lor{
+        font-size: 4px;
+    }
+}
+
+@media (max-width: 320px) {
+    .lea {
+        
+    }
+    .learn1 {
+        font-size: 27px;
+    }
+    .pro {
+        font-size: 19px;
+    }
+    .name{
+        font-size: 9px;
+    }
+    .second{
+        font-size: 15px;
+    }
+    .end {
+        padding-top: 10px;
+        font-size: 8px;
+    }
+    .logo2 {
+        padding-top: 2px;
+    }
+    .earn {
+        font-size: 8px;
+    }
+    .lor {
+        word-spacing: 0px;
+        margin-top: 9px;
+        margin-left: 9px;
+        font-size: 6px;
+    }
+    .first {
+        padding-top: 5px;
+        padding-bottom: 6px;
+        line-height: 40px;
+    }
+    .fir {
+        font-size: 22px;
+    }
+    .start {
+        font-size: 12px;
+    }
+    .month {
+        font-size: 8px;
+    }
+    lor1 {
+        font-size: 7px;
+    }
+    .lorem{
+        font-size: 5px;
+    }
+    .lorem1 {
+        width: 90%;
+        word-spacing: 0px;
+        margin-top: 10px;
+        font-size: 5px;
+    }
+    .lorem2 {
+        width: 90%;
+        word-spacing: 0px;
+        margin-top: 10px;
+        font-size: 5px;
+    }
+}
